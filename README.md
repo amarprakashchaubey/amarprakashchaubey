@@ -22,7 +22,7 @@ Hello, I hope you are fine and safe. I'm Amar Prakash Chaubey, a software Engine
 - 👨🏽‍💻 I’m currently working on 3D Object Viewer and Design product;
 - 🌱 I’m currently learning Angular, THREE.js and Redux; 
 - 💬 I love to discuss with anyone but relevance exists.
-- 📫 How to reach me: amarprakashchaubey@outlook.com;
+- 📫 Seeking for the opportunities. If you have any then please email me: amarprakashchaubey@outlook.com;
 
 <br/>
 
