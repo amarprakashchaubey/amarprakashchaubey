@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hello, I hope you are fine and safe. I'm Amar Prakash Chaubey, a software Engineer from India. Presentlu, I'm working as full time Front-End web Developer. other than programming, I love to travel and having food.
+Hello, I hope you are fine and safe. I'm Amar Prakash Chaubey, a software Engineer from India. Presently, I'm working as full time Front-End web Developer. other than programming, I love to travel and having food.
 
   
 **Talking about Personal Stuffs:**
