@@ -5,7 +5,7 @@
 <a href="https://twitter.com/amarprakashchau">
   <img align="left" alt="Amar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/amar-prakash-chaubey-b94490186/">
+<a href="https://www.linkedin.com/in/amar-prakash-chaubey">
   <img align="left" alt="Amar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/amarprakashchaubey/">
@@ -14,14 +14,14 @@
 <br />
 <br />
 
-Hello, I hope you are fine and safe. I'm Amar Prakash Chaubey, a software Engineer from India. Presently, I'm working as full time Front-End web Developer. other than programming, I love to travel and having food.
-I have completed my master's in Computer Application.
+Hello, I hope you are fine and safe. I'm Amar Prakash Chaubey, a software Developer from India. Presently, I'm working as full time Front-End web Developer. I have 2+ years of experiance in my field. Other than programming, I love to travel and having food.
+I have completed my master's in Computer Application. 
 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on 3D Object Viewer and Design product;
-- 🌱 I’m currently learning Angular, THREE.js and Redux; 
+- 👨🏽‍💻 I’m currently working as FrontEnd Developer;
+- 🌱 I have experiance of Angular, JavaScript, typeScript, Redux; 
 - 💬 I love to discuss with anyone but relevance exists.
 - 📫 Seeking for the opportunities. If you have any then please email me: amarprakashchaubey@outlook.com;
 
